@@ -1,3 +1,3 @@
 # Hello-world
 My first repository
-This is something to study with edX computer sicenece
+This is something to study with edX computer science
